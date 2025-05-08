@@ -1,8 +1,8 @@
 # AI-Assessment
 
-# Assessment 1: Mini RAG Pipeline with ChromaDB on Colab
+## Assessment 1: Mini RAG Pipeline with ChromaDB on Colab
 
-## Instructions:
+### Instructions:
 1. Use Google Colab for the task.
 2. Take 5–10 short documents (you can hardcode them).
 3. Preprocess them using basic NLP (tokenization, stopword removal, etc.).
@@ -13,9 +13,9 @@
 
 ---
 
-# Assessment 2: Knowledge Graph + Semantic Search + QA
+## Assessment 2: Knowledge Graph + Semantic Search + QA
 
-## Instructions:
+### Instructions:
 1. Build a small **RDF knowledge graph** using the `rdflib` library.
    - Example: Alice knows Bob, Bob works at Google, Google is a company.
 2. Convert the RDF triples into text format (e.g., "Alice knows Bob").
